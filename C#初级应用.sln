@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#错误调试", "C#错误调试\C#错误调试.csproj", "{29687BBD-3E67-4D43-8809-779BA654F6B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#属性", "C#属性\C#属性.csproj", "{B5B996D7-471F-496E-A9A9-5B2391D40DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29687BBD-3E67-4D43-8809-779BA654F6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29687BBD-3E67-4D43-8809-779BA654F6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29687BBD-3E67-4D43-8809-779BA654F6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B996D7-471F-496E-A9A9-5B2391D40DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B996D7-471F-496E-A9A9-5B2391D40DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B996D7-471F-496E-A9A9-5B2391D40DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B996D7-471F-496E-A9A9-5B2391D40DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
