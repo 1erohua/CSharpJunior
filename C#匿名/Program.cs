@@ -2,6 +2,7 @@
 //一旦被赋值之后，匿名类型的变量将去掉隐匿，类型将一直确定，无法再被重新改写类型
 namespace C_匿名
 {
+    class MyClass
     internal class Program
     {
         static void Main(string[] args)
