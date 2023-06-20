@@ -20,6 +20,7 @@ namespace C_属性
             Console.WriteLine("Hello, World!");
         }
     }
+
     //属性的三个用处
     //第一个，将某些类里面定义的私有变量通过属性公开给外域
     class UsersInformation
