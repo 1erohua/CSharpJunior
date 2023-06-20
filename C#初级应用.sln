@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#属性", "C#属性\C#属�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#堆栈和值类型与引用类型", "C#堆栈和值类型与引用类型\C#堆栈和值类型与引用类型.csproj", "{44ECE98C-4FF0-4A08-AC35-CF641793F20E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#匿名", "C#匿名\C#匿名.csproj", "{53D26AF0-E1EB-4344-A803-7798844FA302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{44ECE98C-4FF0-4A08-AC35-CF641793F20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44ECE98C-4FF0-4A08-AC35-CF641793F20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44ECE98C-4FF0-4A08-AC35-CF641793F20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D26AF0-E1EB-4344-A803-7798844FA302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D26AF0-E1EB-4344-A803-7798844FA302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D26AF0-E1EB-4344-A803-7798844FA302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D26AF0-E1EB-4344-A803-7798844FA302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
